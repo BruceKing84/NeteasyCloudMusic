@@ -7,6 +7,7 @@
     android:background="@drawable/friends">
 
     <com.ctrlqun.view.BottomBarView
+        android:id="@+id/id_BottomBarView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent" />
